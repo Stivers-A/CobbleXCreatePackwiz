@@ -1,0 +1,17 @@
+filename = 'MyNethersDelight-1.21.1-1.10.jar'
+name = "My Nether's Delight"
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.10'
+
+[download]
+hash = 'e6d2402692bf2a353fcddffc1a9391e2c7986a5230d041341212c370327514a33aa8a8ea2036e0e7783de9b5bd9f6d1c48e5582efc4732d1524a964d279b0070'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/O53VhQoZ/versions/lvTo8T38/MyNethersDelight-1.21.1-1.10.jar'
+
+[update.modrinth]
+mod-id = 'O53VhQoZ'
+version = 'lvTo8T38'

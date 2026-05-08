@@ -1,0 +1,16 @@
+name = "AeroXCobblemon"
+author = "Alex"
+version = "2.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "54f7f215e0b22af2bab22ed80174f87c6974abdaac81a359389d21bcc392cadd"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.228"
+
+[options]
+datapack-folder = "./datapacks"

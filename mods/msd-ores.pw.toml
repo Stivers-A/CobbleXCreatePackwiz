@@ -1,0 +1,17 @@
+filename = 'megashowdownores-1.2.4.jar'
+name = 'Cobblemon Add-on: Mega Showdown Ores'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.4'
+
+[download]
+hash = '8aa32a7892654109ab39e8a24f856df150d240aa44c9f0f71a5b3a7eaa3b821e41b52f7088eca6811a880789fc76279531b2c5103d25bb27eb73eb82392aea0d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UdwspEsp/versions/wLMKjSZC/megashowdownores-1.2.4.jar'
+
+[update.modrinth]
+mod-id = 'UdwspEsp'
+version = 'wLMKjSZC'

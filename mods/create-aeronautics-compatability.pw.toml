@@ -1,0 +1,17 @@
+filename = 'aeronauticscompat-1.1.0.jar'
+name = 'Create Aeronautics: Compatability'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.0'
+
+[download]
+hash = 'a187587fad79d4605a7ea5e2f636609881144e090af740af47adf0eabc4cce3c58148690ab4c0f89be8adddf3a11b7664d7687889f74827da064baa633536fd0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aLVC5usA/versions/NH6rRib7/aeronauticscompat-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'aLVC5usA'
+version = 'NH6rRib7'
