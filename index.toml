@@ -223,6 +223,11 @@ hash = "004532d46dfe402e7b36af92c64d0087f2cd33641eb1140189dbdd932996d635"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-repel.pw.toml"
+hash = "e24423d7ff807f880b36acb374e00e28908182bf15fa916b6a319b9ce804f81f"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-safepastures.pw.toml"
 hash = "87db4665b00e3bb87ac01745e2f5efedd18c29da1843312797717515cc4cf450"
 metafile = true
