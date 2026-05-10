@@ -1,12 +1,12 @@
 name = "AeroXCobblemon"
 author = "Alex"
-version = "2.1.0"
+version = "2.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "54f7f215e0b22af2bab22ed80174f87c6974abdaac81a359389d21bcc392cadd"
+hash = "ce8d5f2aef80eb0c195ec7f35f5a9101bb0f163ff61506997b65c847a951c2ed"
 
 [versions]
 minecraft = "1.21.1"
