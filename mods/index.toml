@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".gitattributes.txt"
-hash = "da0ea19d73d509cf13b657167030382a86cf49aa351bac305db2d5125e1caaea"
-
-[[files]]
 file = "datapacks/ATM x MSD [v3.5.0].zip"
 hash = "10e6f9c6bc0048e9504cec8b436b09d5ad4afd923a08e834b8deb6004caaa474"
 
@@ -29,11 +25,6 @@ metafile = true
 [[files]]
 file = "mods/advanced-loot-info.pw.toml"
 hash = "77daae366b2d3c64555164fc9a79e8e75e34fa0017f780f20a3990caf968fda1"
-metafile = true
-
-[[files]]
-file = "mods/ae2.pw.toml"
-hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
 metafile = true
 
 [[files]]
@@ -447,15 +438,6 @@ hash = "9a0f58d6bd2c11efdf49c4b05739e9bf3228772f9adf430f6ff14aa23527e5bd"
 metafile = true
 
 [[files]]
-file = "mods/guideme.pw.toml"
-hash = "b8aee2057378b6f054f94550684d9a3f41ded7cc47794c8b01c107c8c2115ceb"
-metafile = true
-
-[[files]]
-file = "mods/index.toml"
-hash = "461f353c1e86106cadb1d72f484a0ed8437bab7ac0052664acce847a030c8a17"
-
-[[files]]
 file = "mods/invmove.pw.toml"
 hash = "9a078944777759d4e2922a11e3549ea0e686ec7d5c8cbb239888a257ddbed934"
 metafile = true
@@ -617,7 +599,7 @@ metafile = true
 
 [[files]]
 file = "mods/pack.toml"
-hash = "4f0fa091ccf755abc3f3d14fc0a4fb3fc5b14e9682103774076e89d8d20efe00"
+hash = "9de1cfd831b11a7af1a460fde760ab0d7d5ce97ef2e82e2bd74733c45df8b8da"
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
