@@ -28,6 +28,11 @@ hash = "77daae366b2d3c64555164fc9a79e8e75e34fa0017f780f20a3990caf968fda1"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
+metafile = true
+
+[[files]]
 file = "mods/aeronautics-dyeable-components.pw.toml"
 hash = "983486ec46a59d0d35fc15f87d4fabd6e9325a1aff6d66f1c5644fedfb29e357"
 metafile = true
@@ -435,6 +440,11 @@ metafile = true
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "9a0f58d6bd2c11efdf49c4b05739e9bf3228772f9adf430f6ff14aa23527e5bd"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "b8aee2057378b6f054f94550684d9a3f41ded7cc47794c8b01c107c8c2115ceb"
 metafile = true
 
 [[files]]
