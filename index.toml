@@ -448,10 +448,6 @@ hash = "b8aee2057378b6f054f94550684d9a3f41ded7cc47794c8b01c107c8c2115ceb"
 metafile = true
 
 [[files]]
-file = "mods/index.toml"
-hash = "461f353c1e86106cadb1d72f484a0ed8437bab7ac0052664acce847a030c8a17"
-
-[[files]]
 file = "mods/invmove.pw.toml"
 hash = "9a078944777759d4e2922a11e3549ea0e686ec7d5c8cbb239888a257ddbed934"
 metafile = true
@@ -613,7 +609,7 @@ metafile = true
 
 [[files]]
 file = "mods/pack.toml"
-hash = "9de1cfd831b11a7af1a460fde760ab0d7d5ce97ef2e82e2bd74733c45df8b8da"
+hash = "ae3c2db889940c2dd69ddb0017e7142fb6402e37ab3a4b4b48313dc1a5be9f45"
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
