@@ -438,10 +438,6 @@ hash = "9a0f58d6bd2c11efdf49c4b05739e9bf3228772f9adf430f6ff14aa23527e5bd"
 metafile = true
 
 [[files]]
-file = "mods/index.toml"
-hash = "461f353c1e86106cadb1d72f484a0ed8437bab7ac0052664acce847a030c8a17"
-
-[[files]]
 file = "mods/invmove.pw.toml"
 hash = "9a078944777759d4e2922a11e3549ea0e686ec7d5c8cbb239888a257ddbed934"
 metafile = true
