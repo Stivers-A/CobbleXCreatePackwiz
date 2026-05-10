@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".gitattributes.txt"
-hash = "da0ea19d73d509cf13b657167030382a86cf49aa351bac305db2d5125e1caaea"
-
-[[files]]
 file = "datapacks/ATM x MSD [v3.5.0].zip"
 hash = "10e6f9c6bc0048e9504cec8b436b09d5ad4afd923a08e834b8deb6004caaa474"
 
