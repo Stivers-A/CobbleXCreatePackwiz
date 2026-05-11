@@ -1,6 +1,6 @@
 filename = 'playerxp-neoforge-1.0.9+1.21.1.jar'
 name = 'Cobblemon: PlayerXP'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [
     '1.21.1',

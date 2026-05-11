@@ -1,6 +1,6 @@
 filename = 'MythsAndLegends-neoforge-1.9.0.jar'
 name = 'Myths and Legends [Cobblemon Sidemod]'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

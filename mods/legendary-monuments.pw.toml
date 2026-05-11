@@ -1,6 +1,6 @@
 filename = 'LegendaryMonuments-7.8.jar'
 name = 'Cobblemon: Legendary Monuments'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

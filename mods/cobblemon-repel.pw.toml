@@ -1,6 +1,6 @@
 name = "Cobblemon Repel"
 filename = "CobblemonRepel-1.7-1.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/u8TYP2M6/versions/szUK5EJh/CobblemonRepel-1.7-1.4.jar"

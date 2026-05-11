@@ -1,6 +1,6 @@
 filename = 'mega-showdown-item-pack-1.4.2.jar'
 name = 'Mega Showdown Item Pack'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

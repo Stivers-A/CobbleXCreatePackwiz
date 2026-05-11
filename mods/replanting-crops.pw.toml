@@ -1,6 +1,6 @@
 filename = 'replantingcrops-1.21.1-5.5.jar'
 name = 'Replanting Crops'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
