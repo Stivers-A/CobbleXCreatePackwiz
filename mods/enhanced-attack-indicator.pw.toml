@@ -1,6 +1,6 @@
 filename = 'enhanced_attack_indicator-1.1.1+1.21-forge.jar'
 name = 'Enhanced Attack Indicator'
-side = ''
+side = 'client'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

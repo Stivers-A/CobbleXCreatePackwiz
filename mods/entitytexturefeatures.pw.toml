@@ -1,6 +1,6 @@
 filename = 'entity_texture_features_1.21-neoforge-7.0.8.jar'
 name = '[ETF] Entity Texture Features'
-side = ''
+side = 'client'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

@@ -1,6 +1,6 @@
 filename = 'AmbientEnvironment-neoforge-1.21.1-18.0.0.2.jar'
 name = 'Ambient Environment'
-side = ''
+side = 'client'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

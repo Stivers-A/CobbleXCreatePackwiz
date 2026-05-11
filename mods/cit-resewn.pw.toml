@@ -1,6 +1,6 @@
 filename = 'citresewn-1.2.2+1.21.jar'
 name = 'CIT Resewn'
-side = ''
+side = 'client'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'beta'

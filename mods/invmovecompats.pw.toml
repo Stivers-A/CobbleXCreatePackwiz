@@ -1,6 +1,6 @@
 filename = 'InvMoveCompats-0.5.0+1.21.8-NeoForge.jar'
 name = 'InvMoveCompats'
-side = ''
+side = 'client'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [
     '1.21',
