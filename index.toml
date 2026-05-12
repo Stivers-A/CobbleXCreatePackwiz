@@ -228,6 +228,11 @@ hash = "f2939f9d4703322f5cf05dbde815640aec5e18ef191d78459a3540ecdcf84e7b"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-repel.pw.toml"
+hash = "e24423d7ff807f880b36acb374e00e28908182bf15fa916b6a319b9ce804f81f"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-safepastures.pw.toml"
 hash = "6e31af62de0c52be0a41293571de534a8cf7f84f0e4d80c04de9fcd4296cd252"
 metafile = true
@@ -619,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/pack.toml"
-hash = "d8379dce65a3c48e57f5abfea193bbc0c0f37f7b376f78504f8702526bac34d4"
+hash = "0324ede1081e8b751fefdd31a6974198a6cdb4eb09177110ab0197b5557f0544"
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
