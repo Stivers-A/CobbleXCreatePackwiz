@@ -223,8 +223,8 @@ hash = "0e7c7eb231afbc3fa193821d713fda822b3c9019f0eedc43ea8c277e1d70347e"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-repel.pw.toml"
-hash = "6693ac71c5b36ad10b1bbbf23067c1f6d2c14511e84fb89334f4b815fb3cad47"
+file = "mods/cobblemon-repel-neoreforged.pw.toml"
+hash = "f2939f9d4703322f5cf05dbde815640aec5e18ef191d78459a3540ecdcf84e7b"
 metafile = true
 
 [[files]]
@@ -543,6 +543,11 @@ hash = "efb23c7e58d7300ed2f1c7cb422b0919e55e0eafed4c200aae2f7e99f180fb23"
 metafile = true
 
 [[files]]
+file = "mods/magnum-torch.pw.toml"
+hash = "e0eb9856cfbcefd70a853efd4e5ab8deb6a3add9f97f927860ed19b8055f8b88"
+metafile = true
+
+[[files]]
 file = "mods/mega-showdown-item-pack.pw.toml"
 hash = "f5a8f609b7651011766df58d455ac1275f88d1842966c5b948a4d522afb14013"
 metafile = true
@@ -634,6 +639,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "60c16d5ae81be6949b915414a60df4b0c66bc173835b33985e2bc1759df2e53d"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
 metafile = true
 
 [[files]]
